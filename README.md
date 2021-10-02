@@ -10,3 +10,5 @@ My goal here is to write a simple well known programming problem in as many lang
 
 ## etc
 The solutions might not look special or different, but they are worth looking into to understand why they have been written the way they are. Hope you like them!
+
+If you'd like to see this in a language I have covered, checkout my profile for contact info and let me know! I will credit all language suggestions to those who suggested them!
